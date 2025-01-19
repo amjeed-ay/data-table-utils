@@ -1,0 +1,23 @@
+{
+  "name": "data-table-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjeed-ay/data-table-utils.git"
+  },
+  "author": "amjeed-ay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjeed-ay/data-table-utils/issues"
+  },
+  "homepage": "https://github.com/amjeed-ay/data-table-utils#readme",
+  "description": "",
+  "dependencies": {
+    "@mui/material": "^6.4.0",
+    "@mui/x-data-grid": "^7.24.0"
+  }
+}
